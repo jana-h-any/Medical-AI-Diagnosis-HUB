@@ -63,6 +63,14 @@ Techniques applied:
 
 Training with PyTorch
 
+## 🎥 Live Demo
+
+You can try the deployed application here:  
+
+🔗 [Medical AI Diagnosis HUB - Live Demo](https://medical-ai-diagnosis-applicationgit-odjeg6n3vqdmubbhfuswbs.streamlit.app/)
+
+
+
 ## Project Structure
 ### Medical-AI-Diagnosis-HUB/
 │
